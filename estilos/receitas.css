@@ -1,8 +1,7 @@
 .lista__receitas {
     display: flex; 
-    justify-content: center; 
+    justify-content: space-around; 
     align-items: start; 
-    gap: 2rem;
     flex-wrap: wrap;
 }
  
