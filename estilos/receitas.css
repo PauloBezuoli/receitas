@@ -1,0 +1,19 @@
+.lista__receitas {
+    display: flex; 
+    justify-content: center; 
+    align-items: start; 
+    gap: 2rem;
+}
+ 
+hr {
+    color: var(--cor-branco); 
+}
+
+.card-title {
+    color: var(--cor-branco);
+    font-weight: 700;
+}
+
+.paragrafo__receitas {
+    color: lightgray;
+}

@@ -1,0 +1,9 @@
+.container div, .container, .container div label, form, h1 {
+    background-color: rgb(37, 37, 37);
+    padding: 5px;
+}
+
+.container {
+    border-radius: 10px;
+}
+
